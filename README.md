@@ -1,8 +1,8 @@
 # Pings
 
-Simple ping client in Python 3 by using icmp packet via low level socket.
+Cliente de ping simples em Python 3 usando pacote icmp por meio de soquete de baixo nível.
 
-*Note: this client can only be used by **root** (or admin) user.*
+* Observação: este cliente só pode ser usado pelo usuário ** root ** (ou administrador). *
 
 ## How to install
 
