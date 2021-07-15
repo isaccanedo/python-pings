@@ -4,7 +4,7 @@ Cliente de ping simples em Python 3 usando pacote icmp por meio de soquete de ba
 
 * Observação: este cliente só pode ser usado pelo usuário ** root ** (ou administrador). *
 
-## How to install
+## Como instalar
 
 Para instalar pings, basta:
 
