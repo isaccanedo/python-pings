@@ -27,7 +27,7 @@ Instantinate:
 > p = pings.Ping()
 ```
 
-In case that you want to send simple ping:
+Caso você queira enviar um ping simples:
 
 ```
 > response = p.ping("google.com")
