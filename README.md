@@ -2,7 +2,8 @@
 
 Cliente de ping simples em Python 3 usando pacote icmp por meio de soquete de baixo nível.
 
-* Observação: este cliente só pode ser usado pelo usuário ** root ** (ou administrador). *
+** Observação**
+Este cliente só pode ser usado pelo usuário ** root ** (ou administrador). *
 
 ## Como instalar
 
